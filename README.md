@@ -1,13 +1,5 @@
 ## Rodrigo Guzmán Flores - Programming Portfolio
 ### Android
-- Country / Flag application
+- [Country / Flag application](https://github.com/RoyGF/flag_country)
     - This Application is made using MVVM architecture pattern. 
-
-### Flutter
-- QR Reader
-    - This app .....
-
-### Video Games
-- Flappy Bird
-- Timberman
- 
+    <img src="/img/android/CountriesApp.jpeg" height="300em" />
