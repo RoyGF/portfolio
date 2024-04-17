@@ -5,7 +5,11 @@
 ### Flutter
 - [Chat Application](https://github.com/RoyGF/Chat)
     - Chat application made in **Flutter** using bloc pattern and **Node JS** as the standalone server.
-<img src="/screenshots/screen_shot_01.png" height="500em" /> <img src="/screenshots/screen_shot_03.png" height="500em" /> <img src="/screenshots/screen_shot_02.png" height="500em" /> <img src="/screenshots/screen_shot_04.png" height="500em" /> <img src="/screenshots/screen_shot_05.png" height="500em" />
+<img src="https://github.com/RoyGF/Chat/blob/master/screenshots/screen_shot_01.png" width="250" alt="Screenshot 1" />
+<img src="https://github.com/RoyGF/Chat/blob/master//screenshots/screen_shot_03.png" width="250" alt="Screenshot 2" />
+<img src="https://github.com/RoyGF/Chat/blob/master//screenshots/screen_shot_02.png" width="250" alt="Screenshot 3" />
+<img src="https://github.com/RoyGF/Chat/blob/master//screenshots/screen_shot_04.png" width="250" alt="Screenshot 4" />
+<img src="https://github.com/RoyGF/Chat/blob/master//screenshots/screen_shot_05.png" width="250" alt="Screenshot 5" />
 
 - [Flappy Bird Clone](https://github.com/RoyGF/FlappyBird)
     - Flappy Bird Clone using Flame Engine
