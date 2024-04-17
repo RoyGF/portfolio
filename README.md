@@ -2,6 +2,8 @@
 ### Android
 - [Country / Flag application](https://github.com/RoyGF/flag_country)
     - This Application is made using MVVM architecture pattern.
+<img src="https://github.com/RoyGF/flag_country/blob/master/img/ScreenShot01.jpeg" width="250" alt="Screenshot 1">
+
 ### Flutter
 - [Chat Application](https://github.com/RoyGF/Chat)
     - Chat application made in **Flutter** using bloc pattern and **Node JS** as the standalone server.
