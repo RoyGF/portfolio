@@ -4,4 +4,6 @@
     - This Application is made using MVVM architecture pattern.
 ### Flutter
 - [Chat Application](https://github.com/RoyGF/Chat)
-    - Chat application made in **Flutter** using bloc pattern and **Node JS** as the standalone server. 
+    - Chat application made in **Flutter** using bloc pattern and **Node JS** as the standalone server.
+- [Flappy Bird Clone](https://github.com/RoyGF/FlappyBird)
+    - Flappy Bird Clone using Flame Engine
